@@ -8,11 +8,11 @@ Allo-media a levé 3.5M d'€ de fonds à date et est en train de préparer une 
 
 Pour soutenir notre montée en charge exponentielle, nous recherchons un Administrateur Système et Réseaux expérimenté. Rattaché au directeur technique, vous aurez notamment pour mission :
 
-• Assurer la continuité de service de toutes les parties du système
-• Gèrer de manière proactive le dimensionnement de l'architecture
-• Garantir la sécurité et le bon fonctionnement des systèmes d'informations
-• Mettre en production les projets réalisés par l'équipe technique
-• Mettre en place des indicateurs de performance et rendre compte de l'activité
+- Assurer la continuité de service de toutes les parties du système
+- Gèrer de manière proactive le dimensionnement de l'architecture
+- Garantir la sécurité et le bon fonctionnement des systèmes d'informations
+- Mettre en production les projets réalisés par l'équipe technique
+- Mettre en place des indicateurs de performance et rendre compte de l'activité
 
 # Profil recherché
 
@@ -20,12 +20,12 @@ Vous justifiez d'une expérience d'au moins 7 ans en tant qu'Administrateur Sy
 
 Vous maîtrisez les compétences techniques suivantes :
 
-• Expérience d'architectures cloud type Amazon AWS, OVH dedicated cloud, VMWare
-• Connaissance poussée de GNU/Linux (Debian, Ubuntu)
-• Bonne connaissance de Puppet
-• Maîtrise d'un langage de script (shell, python)
-• Expérience dans l'administration de postgresql serait un plus
-• Connaissances dans le domaine de la téléphonie serait un plus
+- Expérience d'architectures cloud type Amazon AWS, OVH dedicated cloud, VMWare
+- Connaissance poussée de GNU/Linux (Debian, Ubuntu)
+- Bonne connaissance de Puppet
+- Maîtrise d'un langage de script (shell, python)
+- Expérience dans l'administration de postgresql serait un plus
+- Connaissances dans le domaine de la téléphonie serait un plus
 
 Vous avez une bonne maîtrise de l'anglais à l'écrit. 
 
