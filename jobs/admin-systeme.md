@@ -1,4 +1,4 @@
-# Administrateur Système et Réseaux
+# Administrateur Systèmes et Réseaux
 
 Vous vous êtes déjà énervé au téléphone car vous deviez répéter pour la quatrième fois votre problème au nouveau télé-conseiller qui avait décroché ? Vous n'êtes pas le seul. C'est pour cela que, chez Allo-media, nous avons développé la première technologie d'analyse d'appels téléphoniques en temps réel pour venir en aide aussi bien au client qui appelle, qu'à l'entreprise qui fait tout pour le satisfaire : le __Cookie Vocal__.
 
@@ -8,7 +8,7 @@ Allo-media a levé 3.5M d'€ de fonds à date et est en train de préparer une 
 
 # Poste et missions
 
-Pour soutenir notre montée en charge exponentielle, nous recherchons un __Administrateur Système et Réseaux expérimenté__. Rattaché au directeur technique, vous aurez notamment pour mission :
+Pour soutenir notre montée en charge exponentielle, nous recherchons un __Administrateur Systèmes et Réseaux expérimenté__. Rattaché au directeur technique, vous aurez notamment pour mission :
 
 - Assurer la __continuité de service__ de toutes les parties du système
 - Gèrer de manière proactive le __dimensionnement de l'architecture__
