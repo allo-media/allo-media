@@ -32,3 +32,5 @@ Vous maîtrisez les compétences techniques suivantes :
 Vous avez une bonne maîtrise de __l'anglais à l'écrit__. 
 
 Vous travaillerez au sein d'une équipe techniquement chevronnée basée principalement à __Paris__ et au __Mans__, avec __télétravail possible__. Allo-média compte actuellement 20 salariés dont 10 personnes au pôle technique. __Tickets restaurant__ et __mutuelle d'entreprise__ sont disponibles.
+
+__Contact__: [v.jousse@allo-media.fr](v.jousse@allo-media.fr)
